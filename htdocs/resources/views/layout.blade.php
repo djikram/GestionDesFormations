@@ -239,12 +239,12 @@
                                     <!-- <li>
                                         <div class="dropdown-divider"></div>
                                     </li> -->
-                                    <li>
+                                    <!-- <li>
                                         <a class="dropdown-item" href="pages-profile-user.html">
                                             <i class="ti ti-user-check me-2 ti-sm"></i>
                                             <span class="align-middle">My Profile</span>
                                         </a>
-                                    </li>
+                                    </li> -->
                                     <!-- <li>
                                         <div class="dropdown-divider"></div>
                                     </li> -->
